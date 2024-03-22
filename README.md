@@ -3,3 +3,10 @@ A conveyor belt system that detects faulty product positions in the filling faci
 
 
 A Vision system is used to ensure the accuracy of the sorting process.
+
+
+Hem pozisyon hatalarını hem etiket üzerinde oluşan hataları ayıklamaktadır.
+
+
+It detects both location errors and errors on the label
+
