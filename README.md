@@ -6,5 +6,5 @@ A Vision system is used to ensure the accuracy of the sorting process.
 
 
 
-It detects both location errors and errors on the label
+It detects both location errors and errors on the label.
 
